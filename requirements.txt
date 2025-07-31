@@ -1,0 +1,8 @@
+# For FastAPI web framework
+fastapi
+
+# For running ASGI apps on AWS Lambda
+mangum[standard]
+
+# For local development server
+uvicorn
